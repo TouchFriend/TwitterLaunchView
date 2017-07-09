@@ -14,6 +14,7 @@
 		BFFE4E261F120D5800EAC966 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BFFE4E251F120D5800EAC966 /* Assets.xcassets */; };
 		BFFE4E291F120D5800EAC966 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BFFE4E271F120D5800EAC966 /* LaunchScreen.storyboard */; };
 		BFFE4E341F120D5800EAC966 /* TwitterLaunchViewUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = BFFE4E331F120D5800EAC966 /* TwitterLaunchViewUITests.m */; };
+		BFFE4E401F120D9700EAC966 /* NJLaunchView.m in Sources */ = {isa = PBXBuildFile; fileRef = BFFE4E3F1F120D9700EAC966 /* NJLaunchView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,8 @@
 		BFFE4E2F1F120D5800EAC966 /* TwitterLaunchViewUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TwitterLaunchViewUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		BFFE4E331F120D5800EAC966 /* TwitterLaunchViewUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TwitterLaunchViewUITests.m; sourceTree = "<group>"; };
 		BFFE4E351F120D5800EAC966 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BFFE4E3E1F120D9700EAC966 /* NJLaunchView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NJLaunchView.h; sourceTree = "<group>"; };
+		BFFE4E3F1F120D9700EAC966 /* NJLaunchView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NJLaunchView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -89,6 +92,8 @@
 				BFFE4E251F120D5800EAC966 /* Assets.xcassets */,
 				BFFE4E271F120D5800EAC966 /* LaunchScreen.storyboard */,
 				BFFE4E2A1F120D5800EAC966 /* Info.plist */,
+				BFFE4E3E1F120D9700EAC966 /* NJLaunchView.h */,
+				BFFE4E3F1F120D9700EAC966 /* NJLaunchView.m */,
 				BFFE4E191F120D5800EAC966 /* Supporting Files */,
 			);
 			path = TwitterLaunchView;
@@ -218,6 +223,7 @@
 				BFFE4E211F120D5800EAC966 /* ViewController.m in Sources */,
 				BFFE4E1E1F120D5800EAC966 /* AppDelegate.m in Sources */,
 				BFFE4E1B1F120D5800EAC966 /* main.m in Sources */,
+				BFFE4E401F120D9700EAC966 /* NJLaunchView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
