@@ -15,6 +15,7 @@
 		BFFE4E291F120D5800EAC966 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BFFE4E271F120D5800EAC966 /* LaunchScreen.storyboard */; };
 		BFFE4E341F120D5800EAC966 /* TwitterLaunchViewUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = BFFE4E331F120D5800EAC966 /* TwitterLaunchViewUITests.m */; };
 		BFFE4E401F120D9700EAC966 /* NJLaunchView.m in Sources */ = {isa = PBXBuildFile; fileRef = BFFE4E3F1F120D9700EAC966 /* NJLaunchView.m */; };
+		BFFE4E421F12111C00EAC966 /* TwitterLaunchView.gif in Resources */ = {isa = PBXBuildFile; fileRef = BFFE4E411F12111C00EAC966 /* TwitterLaunchView.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -43,6 +44,7 @@
 		BFFE4E351F120D5800EAC966 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		BFFE4E3E1F120D9700EAC966 /* NJLaunchView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NJLaunchView.h; sourceTree = "<group>"; };
 		BFFE4E3F1F120D9700EAC966 /* NJLaunchView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NJLaunchView.m; sourceTree = "<group>"; };
+		BFFE4E411F12111C00EAC966 /* TwitterLaunchView.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = TwitterLaunchView.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -92,6 +94,7 @@
 				BFFE4E251F120D5800EAC966 /* Assets.xcassets */,
 				BFFE4E271F120D5800EAC966 /* LaunchScreen.storyboard */,
 				BFFE4E2A1F120D5800EAC966 /* Info.plist */,
+				BFFE4E411F12111C00EAC966 /* TwitterLaunchView.gif */,
 				BFFE4E3E1F120D9700EAC966 /* NJLaunchView.h */,
 				BFFE4E3F1F120D9700EAC966 /* NJLaunchView.m */,
 				BFFE4E191F120D5800EAC966 /* Supporting Files */,
@@ -202,6 +205,7 @@
 			files = (
 				BFFE4E291F120D5800EAC966 /* LaunchScreen.storyboard in Resources */,
 				BFFE4E261F120D5800EAC966 /* Assets.xcassets in Resources */,
+				BFFE4E421F12111C00EAC966 /* TwitterLaunchView.gif in Resources */,
 				BFFE4E241F120D5800EAC966 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
