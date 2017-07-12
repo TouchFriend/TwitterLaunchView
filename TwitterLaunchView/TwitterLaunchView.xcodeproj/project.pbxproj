@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		BFB5BBD61F160C8800C295D7 /* twitterLaunchGif.gif in Resources */ = {isa = PBXBuildFile; fileRef = BFB5BBD51F160C8800C295D7 /* twitterLaunchGif.gif */; };
+		BFB5BBD81F160D5500C295D7 /* twitterLaunch.gif in Resources */ = {isa = PBXBuildFile; fileRef = BFB5BBD71F160D5500C295D7 /* twitterLaunch.gif */; };
 		BFFE4E1B1F120D5800EAC966 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = BFFE4E1A1F120D5800EAC966 /* main.m */; };
 		BFFE4E1E1F120D5800EAC966 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = BFFE4E1D1F120D5800EAC966 /* AppDelegate.m */; };
 		BFFE4E211F120D5800EAC966 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BFFE4E201F120D5800EAC966 /* ViewController.m */; };
@@ -29,7 +29,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		BFB5BBD51F160C8800C295D7 /* twitterLaunchGif.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = twitterLaunchGif.gif; sourceTree = "<group>"; };
+		BFB5BBD71F160D5500C295D7 /* twitterLaunch.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = twitterLaunch.gif; sourceTree = "<group>"; };
 		BFFE4E161F120D5800EAC966 /* TwitterLaunchView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TwitterLaunchView.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BFFE4E1A1F120D5800EAC966 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		BFFE4E1C1F120D5800EAC966 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -94,7 +94,7 @@
 				BFFE4E251F120D5800EAC966 /* Assets.xcassets */,
 				BFFE4E271F120D5800EAC966 /* LaunchScreen.storyboard */,
 				BFFE4E2A1F120D5800EAC966 /* Info.plist */,
-				BFB5BBD51F160C8800C295D7 /* twitterLaunchGif.gif */,
+				BFB5BBD71F160D5500C295D7 /* twitterLaunch.gif */,
 				BFFE4E3E1F120D9700EAC966 /* NJLaunchView.h */,
 				BFFE4E3F1F120D9700EAC966 /* NJLaunchView.m */,
 				BFFE4E191F120D5800EAC966 /* Supporting Files */,
@@ -203,9 +203,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BFB5BBD81F160D5500C295D7 /* twitterLaunch.gif in Resources */,
 				BFFE4E291F120D5800EAC966 /* LaunchScreen.storyboard in Resources */,
 				BFFE4E261F120D5800EAC966 /* Assets.xcassets in Resources */,
-				BFB5BBD61F160C8800C295D7 /* twitterLaunchGif.gif in Resources */,
 				BFFE4E241F120D5800EAC966 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
